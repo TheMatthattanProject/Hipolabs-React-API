@@ -3,7 +3,7 @@ Example Redux React app for showcasing API calls and formatting.
 
 ## Install
 Assumptions: node is installed for the user.
-Once repository is cloned, run `npm install` in `./base-app`.\
+Once repository is cloned, run `npm install` in `./base-app`.
 
 ## Run
 From the `./base-app` directory, run `npm run start`.
